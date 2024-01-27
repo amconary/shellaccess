@@ -7,7 +7,7 @@ Project consists of performing techniques to gain shell access to a machine on a
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Msfconsole</b> 
+- <b>Metasploit</b> 
 - <b>Impacket-psexec</b>
 
 <h2>Environments Used </h2>
